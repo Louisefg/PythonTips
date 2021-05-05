@@ -1,0 +1,6 @@
+# Brouillon
+
+- eval dans un fichier tools ? 
+- demander ce que les gens veulent mettre dedans 
+- lib : munch, rassemble plusieurs variables a partir de json, ou remplissage directement
+  pratique pour les fonctions qui demandent plein de paramètres
